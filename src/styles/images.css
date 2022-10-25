@@ -1,0 +1,42 @@
+/* Add your profile image here */
+.Photo {
+  background-image: url("https://www.colliers.com/-/media/images/colliers/unitedstates/metro-area/portland/skylinepremier_heroimage1536x1040.ashx?bid=c05574736a584c48a917c0463eacacc6&h=1040&w=1536&hash=603219C852CB002741F7FA85529E7F91");
+}
+/* Projects Photo */
+.project1 {
+  background-image: url("https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgxMTMzNTEwMzk0ODQ4MzQ0/crater-gettyimages-st000607.jpg");
+  cursor: none;
+}
+.project2 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+two");
+  cursor: none;
+}
+.project3 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+three");
+  cursor: none;
+}
+.project4 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+four");
+  cursor: none;
+}
+.project5 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+five");
+  cursor: none;
+}
+.project6 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Project+six");
+  cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1 {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX///9SUlJPT0/t7e1ERERBQUFLS0tHR0dJSUlkZGSSkpLU1NQ/Pz/Gxsbz8/OEhIRpaWlzc3Pj4+Ourq6MjIy+vr7Ly8tVVVWkpKR7e3vd3d2ZmZm0tLSgoKDp6eleXl4qKioU2iuvAAAFPklEQVR4nO2c6ZaiMBBGIYaEHW0WxXXe/yknBNA444JISOjz3V99uj1trkilUpXgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwl7TMisT0IPSRlnXMGaNeXaamx6KBNKkpJ66EcLo5nk2PaFLSJGO00+sl+Tr/MT2uiRB65F6vk/RpsNubHt33VMVDvU6SeZdDZHqI31AVjLJner0kJWFleqDjqAr+Tq+DUZolSwuvUThUr7uU3NuUK9OjHkwUko/0ekkRXpcwh0ThdoReJ9mEV7vnkP3h4rGnoXOYpMXh9Xu9TpJ529A+yf1pO4leL0l9q1L0afU6GI8tSdF/diK0TK3XYkOK/rO7UF+PXi/JA3Mp+jkP9Op1kmIOORlI0c/52ptBr5OcPUVfzanXS1JSzJSir47reGa9DkY9/Sm60Jv76t3RpOhHfSm60OPcoF4vqakCsio3vnm9Fg0VkLSsLbh6KpOm6EKP2qXXIlP0CcJrWXs26rWIOYRn36XoRWyvXodI0YvxgidqevyDoKfRhoHtF7CFBKMN1wsxXI82LOMlKJK4HG3oVBuLI6lE5HH1d1NGWm7sjadTlcuFpIWKYsJ3p2t5RHLWsEhz8rqqNCRrbnLhdENH61Ea0rRZPpmWJNzX0d9oDZuV50zlp6d6VNMC+GYoJS9Gyhhat3HcGUrJYN5ihlhEMK2FqH8NnaYYHExfyn+mp79X88CwldRV0Ff0fG+OgvBjQ6ct62uUJP5c+24eGabdB7s/je/6vtbj/NqYEfOU3jb/I8PVn6Cfl/anMZ37lzCRUPd7F36aEntswNAjfny5Sh7IdIGHUX5tkDbNySZseyYM3TaB6iWjwxSNUplQ94EzOpD+Njdl6LbRoL9d5E6MLyTVhDqtClf57hs0bCWvydT47SbqZpO0zP65tc0auvcZY1R8HnjUhHp1fFBhN27odlu3uryxKvwPJJuPp7xmvY8LJzYYyqHGiqQ3SFLtCu53l2f5riWG7v2VTDL+fHepfLHa2Y0O7otYbI+hlPTrm6T/TFLtzqfVu3vXKkMpyeruq5cmNftfUq1EpEnmvv1C22bYOFCWKZJq9FDbuGn56ANYhGEv2YtsuhlATajPx83Q1qSdhlKS96FE1paVSoRYXn5QDbHW0JWF6ZtkHzj7hHowNhtKSV+tssh90h+mr5YbSsl2yZAmxfvAuUhDKbldr8eulRdhKCCjl1ZLMRwPDCcxvK+o/y7D3Bfvwe635vwqw7rdVuMdfqthwft3yX+nYXRTidVbcd79UlSfoBPepmh+VH6faanlP4FlGg2VjVFMvRN/4hkNY539GWVzGwvVP+zm+57SnUbB54ZOOJciDZ+MTbehkw+pP3wNofnjkc1g6EQX/mJo08Avuo/LvDJsLqOv1c/XfQHfGgrHFw8V+BLxn/X7vTd0nETLbvdmX+U8B0nfGzpOeqz9KbcsNOdk6+NcR0iHGDaSVRjwKSybIwZBWM14QnagYcOq2m22nPojPQnzKd9udtXMj1f4wFByrvIiYJxyITrMlAg18XoWFHll4tzvp4Ytq32SH7I1iWOPUmHrMwlpaH/0hRWlXhyTdXbIk72552KMM7ySnvdRVR53p0MYFkXWUBRheDjtjmUV7c8WnEj/0nABwHD5wHD5wHD51Irh+KOMNpPflvGefc/+mYL0mkeTi+mxaCLpCqPEs/tBXF9Q+ZyJVdv21woKyqIObXo0FQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB08hdSYFldcm/ddwAAAABJRU5ErkJggg==");
+  cursor: none;
+}
+.misc2 {
+  background-image: url("https://img.stackshare.io/stack/12741/bcc87e47eb053f5947fa6dbe45beba33a3d1dc56.png");
+  cursor: none;
+}
+.misc3 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+three");
+  cursor: none;
+}
