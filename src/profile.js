@@ -159,7 +159,7 @@ const contact = {
 const social = {
   github: "https://github.com/cardinalkibbles",
   linkedin: "https://www.linkedin.com/in/tyler-giles-06778a13b/",
-  resume: "https://drive.google.com/file/d/1BSn_Z_9asTQNNDp9rcaFFLxPJYto8lnh/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1e9q1SPGDV6voPA1dv-DmZmdoOLm8D2sC/view?usp=sharing",
 };
 // Dont change anything here
 export {
