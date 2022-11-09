@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Web Developer who loves to create and weave connections. Graduated from PDX Code Guild Python Bootcamp, and continues to learn and be exposed to new concepts. One year experience of full-stack development and creating using JS and Python frameworks. Excited and motivated engineer ready and willing to work on new and existing projects!",
+    "Web Developer who loves to create and weave connections. Graduated from PDX Code Guild Python Bootcamp, and continues to learn and be exposed to new concepts. One year experience of full stack development and creating using JS and Python frameworks. Excited and motivated engineer ready and willing to work on new and existing projects!",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
